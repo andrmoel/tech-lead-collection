@@ -2,6 +2,7 @@
 
 ## Culture
 * [Book: DevOps Handbook](https://www.amazon.de/Devops-Handbook-World-class-Reliability-Organizations/dp/1950508404/)
+* [DevOps Culture - The three ways](https://blog.sonatype.com/principle-based-devops-frameworks-three-ways)
 * [YouTube: Spotify Engineering Culture (Part 1)](https://www.youtube.com/watch?v=Yvfz4HGtoPc)
 * [YouTube: Spotify Engineering Culture (Part 2)](https://www.youtube.com/watch?v=vOt4BbWLWQw)
 
