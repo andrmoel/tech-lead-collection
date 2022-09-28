@@ -1,5 +1,10 @@
 (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ.* - You are a Tech Lead now - What's next?
 
+## Tech Lead & Management
+* [YouTube: What I wish I knew as a first time Tech Lead](https://www.youtube.com/watch?v=CjgWwmBW-bc)
+* [YouTube: Congrats! You're the tech lead - now what?](https://www.youtube.com/watch?v=FcyD85z3JSI)
+* [5 Engineering Manager Archetypes](https://www.patkua.com/blog/5-engineering-manager-archetypes/)
+
 ## Culture
 * [Book: DevOps Handbook](https://www.amazon.de/Devops-Handbook-World-class-Reliability-Organizations/dp/1950508404/)
 * [DevOps Culture - The three ways](https://blog.sonatype.com/principle-based-devops-frameworks-three-ways)
@@ -16,5 +21,6 @@
 
 ## Agile
 * [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+* [Workshop: Stop Starting, Start Finishing](https://blog.crisp.se/wp-content/uploads/2013/03/Stop-Starting-Start-Finishing.pdf)
 * [YouTube: Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
 * [YouTube: Reduce WIP and increase Flow](https://www.youtube.com/watch?v=Yqi9Gwt-OEA)
