@@ -13,5 +13,6 @@
 * [github: 1on1 questions collection](https://github.com/VGraupera/1on1-questions)
 
 ## Agile
+* [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 * [YouTube: Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
 * [YouTube: Reduce WIP and increase Flow](https://www.youtube.com/watch?v=Yqi9Gwt-OEA)
