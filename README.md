@@ -1,3 +1,5 @@
+(∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ.* - You are a Tech Lead now - What's next?
+
 ## Culture
 * [Book: DevOps Handbook](https://www.amazon.de/Devops-Handbook-World-class-Reliability-Organizations/dp/1950508404/)
 * [YouTube: Spotify Engineering Culture (Part 1)](https://www.youtube.com/watch?v=Yvfz4HGtoPc)
