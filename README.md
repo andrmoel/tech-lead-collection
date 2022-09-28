@@ -1,6 +1,7 @@
 (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ.* - You are a Tech Lead now - What's next?
 
 ## Tech Lead & Management
+* [The Definition of a Tech Lead](https://www.patkua.com/blog/the-definition-of-a-tech-lead/)
 * [YouTube: What I wish I knew as a first time Tech Lead](https://www.youtube.com/watch?v=CjgWwmBW-bc)
 * [YouTube: Congrats! You're the tech lead - now what?](https://www.youtube.com/watch?v=FcyD85z3JSI)
 * [5 Engineering Manager Archetypes](https://www.patkua.com/blog/5-engineering-manager-archetypes/)
