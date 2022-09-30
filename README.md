@@ -9,6 +9,7 @@
 ## Culture
 * [Book: DevOps Handbook](https://www.amazon.de/Devops-Handbook-World-class-Reliability-Organizations/dp/1950508404/)
 * [DevOps Culture - The three ways](https://blog.sonatype.com/principle-based-devops-frameworks-three-ways)
+* [DevOps culture: Westrum organizational culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
 * [Podcast: The Idealcast with Gene Kim](https://itrevolution.com/the-idealcast-podcast/) ([Spotify](https://open.spotify.com/show/3pHZM8poUN4GMXGJ2Kq76s))
 * [YouTube: Spotify Engineering Culture (Part 1)](https://www.youtube.com/watch?v=Yvfz4HGtoPc)
 * [YouTube: Spotify Engineering Culture (Part 2)](https://www.youtube.com/watch?v=vOt4BbWLWQw)
