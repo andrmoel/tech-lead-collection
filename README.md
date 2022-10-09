@@ -11,6 +11,7 @@
 * [DevOps Culture - The three ways](https://blog.sonatype.com/principle-based-devops-frameworks-three-ways)
 * [DevOps Culture - Westrum organizational culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
 * [Podcast: The Idealcast with Gene Kim](https://itrevolution.com/the-idealcast-podcast/) ([Spotify](https://open.spotify.com/show/3pHZM8poUN4GMXGJ2Kq76s))
+* [DORA Metrics - Use Four Keys metrics to measure your DevOps performance](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
 * [YouTube: Spotify Engineering Culture (Part 1)](https://www.youtube.com/watch?v=Yvfz4HGtoPc)
 * [YouTube: Spotify Engineering Culture (Part 2)](https://www.youtube.com/watch?v=vOt4BbWLWQw)
 
