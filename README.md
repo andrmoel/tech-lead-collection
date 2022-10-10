@@ -6,6 +6,7 @@
 * 📽️ [Congrats! You're the tech lead - now what?](https://www.youtube.com/watch?v=FcyD85z3JSI)
 
 ## Management
+* 📘 [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.de/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/)
 * 🌐 [5 Engineering Manager Archetypes](https://www.patkua.com/blog/5-engineering-manager-archetypes/)
 * 🌐 [Manager Antipatterns](https://medium.com/@hashbrown/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
 * 📽️ [The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
