@@ -17,6 +17,7 @@
 * 🌐 [DevOps Culture - Westrum organizational culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
 * 🎧 [The Idealcast with Gene Kim](https://itrevolution.com/the-idealcast-podcast/) ([Spotify](https://open.spotify.com/show/3pHZM8poUN4GMXGJ2Kq76s))
 * 🌐 [DORA Metrics - Use Four Keys metrics to measure your DevOps performance](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
+* 📘 [Accelerate: The Science Behind Devops (DORA)](https://www.amazon.de/Nicole-Ph-D-Forsgren/dp/1942788339)
 * 📽️ [Spotify Engineering Culture (Part 1)](https://www.youtube.com/watch?v=Yvfz4HGtoPc)
 * 📽️ [Spotify Engineering Culture (Part 2)](https://www.youtube.com/watch?v=vOt4BbWLWQw)
 
