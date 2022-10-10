@@ -9,6 +9,7 @@
 * [5 Engineering Manager Archetypes](https://www.patkua.com/blog/5-engineering-manager-archetypes/)
 * [medium: Manager Antipatterns](https://medium.com/@hashbrown/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
 * [YouTube: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
+* [YouTube: Building and Motivating Engineering Teams](https://www.youtube.com/watch?v=7R-Y2DwWOr0)
 
 ## Culture
 * [Book: DevOps Handbook](https://www.amazon.de/Devops-Handbook-World-class-Reliability-Organizations/dp/1950508404/)
