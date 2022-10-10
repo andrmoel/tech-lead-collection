@@ -22,6 +22,7 @@
 * 📽️ [Spotify Engineering Culture (Part 2)](https://www.youtube.com/watch?v=vOt4BbWLWQw)
 
 ## 1-on-1's
+* 🌐 [The Power of 1:1 Meetings](https://www.grammarly.com/blog/engineering/1-on-1-meetings/)
 * 🌐 [1on1 questions collection](https://github.com/VGraupera/1on1-questions)
 
 ## Agile
