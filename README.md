@@ -1,10 +1,14 @@
 (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ.* - You are a Tech Lead now - What's next?
 
-## Tech Lead & Management
+## Tech Lead
 * [The Definition of a Tech Lead](https://www.patkua.com/blog/the-definition-of-a-tech-lead/)
 * [YouTube: What I wish I knew as a first time Tech Lead](https://www.youtube.com/watch?v=CjgWwmBW-bc)
 * [YouTube: Congrats! You're the tech lead - now what?](https://www.youtube.com/watch?v=FcyD85z3JSI)
+
+## Management
 * [5 Engineering Manager Archetypes](https://www.patkua.com/blog/5-engineering-manager-archetypes/)
+* [medium: Manager Antipatterns](https://medium.com/@hashbrown/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
+* [YouTube: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 
 ## Culture
 * [Book: DevOps Handbook](https://www.amazon.de/Devops-Handbook-World-class-Reliability-Organizations/dp/1950508404/)
@@ -14,10 +18,6 @@
 * [DORA Metrics - Use Four Keys metrics to measure your DevOps performance](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
 * [YouTube: Spotify Engineering Culture (Part 1)](https://www.youtube.com/watch?v=Yvfz4HGtoPc)
 * [YouTube: Spotify Engineering Culture (Part 2)](https://www.youtube.com/watch?v=vOt4BbWLWQw)
-
-## People Management
-* [medium: Manager Antipatterns](https://medium.com/@hashbrown/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
-* [YouTube: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 
 ## 1-on-1's
 * [github: 1on1 questions collection](https://github.com/VGraupera/1on1-questions)
