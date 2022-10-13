@@ -23,8 +23,12 @@
 * 📽️ [Spotify Engineering Culture (Part 2)](https://www.youtube.com/watch?v=vOt4BbWLWQw)
 
 ## 1-on-1's
-* 🌐 [The Power of 1:1 Meetings](https://www.grammarly.com/blog/engineering/1-on-1-meetings/)
-* 🌐 [1on1 questions collection](https://github.com/VGraupera/1on1-questions)
+* 🌐 [The Power of 1-on-1 Meetings](https://www.grammarly.com/blog/engineering/1-on-1-meetings/)
+* 🌐 [1-on-1 questions collection](https://github.com/VGraupera/1on1-questions)
+
+## Communication & Feedback
+* 🌐 [The Art of Misunderstanding & The 4 Sides Model of Communication](https://medium.com/seek-blog/the-art-of-misunderstanding-and-the-4-sides-model-of-communication-7188408457ba)
+* 🌐 [Feedback im Dreiklang](https://www.judithandresen.com/2018/02/18/einfach-sagen-was-ist/) (🇩🇪)
 
 ## Agile
 * 🌐 [Manifesto for Agile Software Development](https://agilemanifesto.org/)
