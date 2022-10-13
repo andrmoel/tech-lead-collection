@@ -28,7 +28,7 @@
 
 ## Communication & Feedback
 * 🌐 [The Art of Misunderstanding & The 4 Sides Model of Communication](https://medium.com/seek-blog/the-art-of-misunderstanding-and-the-4-sides-model-of-communication-7188408457ba)
-* 🌐 [Feedback im Dreiklang](https://www.judithandresen.com/2018/02/18/einfach-sagen-was-ist/) (🇩🇪)
+* 🌐 [Feedback im Dreiklang - How to give Feedback](https://www.judithandresen.com/2018/02/18/einfach-sagen-was-ist/) (🇩🇪)
 
 ## Agile
 * 🌐 [Manifesto for Agile Software Development](https://agilemanifesto.org/)
