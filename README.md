@@ -11,6 +11,7 @@
 * 🌐 [Manager Antipatterns](https://medium.com/@hashbrown/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
 * 📽️ [The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 * 📽️ [Building and Motivating Engineering Teams](https://www.youtube.com/watch?v=7R-Y2DwWOr0)
+* 📽️ [An Explanation of DISC Profiling](https://www.youtube.com/watch?v=dgGz3IFzLQI)
 
 ## Culture
 * 📘 [DevOps Handbook](https://www.amazon.de/Devops-Handbook-World-class-Reliability-Organizations/dp/1950508404/)
