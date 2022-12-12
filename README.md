@@ -15,7 +15,8 @@
 
 ## Culture
 * 📘 [DevOps Handbook](https://www.amazon.de/Devops-Handbook-World-class-Reliability-Organizations/dp/1950508404/)
-* 🌐 [DevOps Culture - The three ways](https://blog.sonatype.com/principle-based-devops-frameworks-three-ways)
+* 🌐 [DevOps Culture - The Three Ways: The Principles Underpinning DevOps](https://itrevolution.com/articles/the-three-ways-principles-underpinning-devops/) 
+* 🌐 [DevOps Culture - The Three Ways: A Principle-based DevOps Framework](https://blog.sonatype.com/principle-based-devops-frameworks-three-ways)
 * 🌐 [DevOps Culture - Westrum organizational culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
 * 🎧 [The Idealcast with Gene Kim](https://itrevolution.com/the-idealcast-podcast/) ([Spotify](https://open.spotify.com/show/3pHZM8poUN4GMXGJ2Kq76s))
 * 🌐 [DORA Metrics - Use Four Keys metrics to measure your DevOps performance](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
