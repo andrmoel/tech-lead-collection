@@ -37,6 +37,7 @@
 * 🌐 [Workshop - Stop Starting, Start Finishing](https://blog.crisp.se/wp-content/uploads/2013/03/Stop-Starting-Start-Finishing.pdf)
 * 📽️ [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
 * 📽️ [Reduce WIP and increase Flow](https://www.youtube.com/watch?v=Yqi9Gwt-OEA)
+* 📽️ [How Kindergardeners Outperform CEOs](https://www.youtube.com/watch?v=7BExiT0JFGg)
 * 🌐 [Pair Programming – So how good is it, really?](https://raygun.com/blog/how-good-is-pair-programming-really/)
 
 ## Tech Skills
