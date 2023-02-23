@@ -39,6 +39,7 @@
 * 📽️ [Reduce WIP and increase Flow](https://www.youtube.com/watch?v=Yqi9Gwt-OEA)
 * 📽️ [How Kindergardeners Outperform CEOs](https://www.youtube.com/watch?v=7BExiT0JFGg)
 * 🌐 [Pair Programming – So how good is it, really?](https://raygun.com/blog/how-good-is-pair-programming-really/)
+* 📽️ [Retrospective Antipatterns](https://www.youtube.com/watch?v=ApAkqxHZq6o)
 
 ## Tech Skills
 * 📘 [The Pragmatic Programmer: journey to mastery](https://www.amazon.de/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/)
