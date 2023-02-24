@@ -4,6 +4,7 @@
 * 🌐 [The Definition of a Tech Lead](https://www.patkua.com/blog/the-definition-of-a-tech-lead/)
 * 📽️ [What I wish I knew as a first time Tech Lead](https://www.youtube.com/watch?v=CjgWwmBW-bc)
 * 📽️ [Congrats! You're the tech lead - now what?](https://www.youtube.com/watch?v=FcyD85z3JSI)
+* 📽️ [How to Take Great Engineers & Make Them Great Technical Leaders](https://www.youtube.com/watch?v=RtMmxqkPVug)
 
 ## Management
 * 📘 [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.de/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/)
