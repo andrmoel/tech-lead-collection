@@ -48,3 +48,7 @@
 * 📽️ Clean Code with Uncle Bob ([Part 1](https://www.youtube.com/watch?v=7EmboKQH8lM), [Part 2](https://www.youtube.com/watch?v=2a_ytyt9sf8), [Part 3](https://www.youtube.com/watch?v=Qjywrq2gM8o), [Part 4](https://www.youtube.com/watch?v=58jGpV2Cg50), [Part 5](https://www.youtube.com/watch?v=sn0aFEMVTpA), [Part 6](https://www.youtube.com/watch?v=l-gF0vDhJVI))
 * 📘 [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.de/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/)
 * 📽 [Software Design Principles and Best Practice](https://www.youtube.com/watch?v=llGgO74uXMI)
+
+## Inspiration from others
+* [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+* [Netflix Culture](https://jobs.netflix.com/culture)
